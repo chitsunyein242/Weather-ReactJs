@@ -1,75 +1,50 @@
 🌤️ Weather App (React + Vite)
-
 A simple and beautiful Weather Application built with React, Vite, and the OpenWeather API.
 Users can search any city and instantly see:
-
-Current temperature
-
-Weather condition
-
-Humidity
-
-Visibility
-
-A live analog clock
-
-Country + City name
-
+•	Current temperature
+•	Weather condition
+•	Humidity
+•	Visibility
+•	A live analog clock
+•	Country + City name
+________________________________________
 🚀 Features
-
-🔍 Search for any city
-
-📡 Fetch real-time weather data
-
-🕒 Analog clock with real rotation
-
-🌡️ Shows temperature in °C
-
-☁️ Weather status: Clear, Rainy, Clouds, etc.
-
-💧 Humidity & visibility details
-
-🎨 Clean UI with responsive design
-
+•	🔍 Search for any city
+•	📡 Fetch real-time weather data
+•	🕒 Analog clock with real rotation
+•	🌡️ Shows temperature in °C
+•	☁️ Weather status: Clear, Rainy, Clouds, etc.
+•	💧 Humidity & visibility details
+•	🎨 Clean UI with responsive design
+________________________________________
 🛠️ Technologies Used
-
-React
-
-Vite
-
-JavaScript (ES6+)
-
-OpenWeatherMap API
-
-CSS / Bootstrap (if used)
-
+•	React
+•	Vite
+•	JavaScript (ES6+)
+•	OpenWeatherMap API
+•	CSS / Bootstrap 
+________________________________________
 📸 Screenshot
 
-(You can add your image here)
-
-![Weather App Screenshot](./screenshot.png)
-
+![Weather App Screenshot](assets/Weather App.png)
+ 
+________________________________________
 📦 Installation
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/chitsunyein242/Weather-ReactJs.git
+cd Weather-App
 npm install
 npm run dev
-
+________________________________________
 🌐 Live Demo
-
 👉 GitHub Pages Link:
-(put your link here after deploying)
-
+https://chitsunyein242.github.io/Weather-ReactJs________________________________________
 🔑 API Setup
-
 Create a .env file:
-
-VITE_WEATHER_API_KEY=your_api_key_here
-
+VITE_WEATHER_API_KEY= 8c075e97c4ef78dcae962ed38838ae10
+________________________________________
 🤝 Contributing
-
 Feel free to fork this project and submit pull requests.
-
+________________________________________
 📄 License
-
 This project is open-source and free to use.
+
